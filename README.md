@@ -24,6 +24,8 @@ Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.Position = UDim2.new(0.0199750662, 0, 0.559772313, 0)
 Frame.Size = UDim2.new(0, 262, 0, 166)
+Frame.Active = true
+Frame.Draggable = true
 
 Arsenal.Name = "Arsenal"
 Arsenal.Parent = Frame
